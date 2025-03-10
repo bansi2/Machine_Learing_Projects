@@ -54,24 +54,9 @@ This project builds a machine learning model to predict whether a person has **d
 
 ---
 
-## 🔧 Installation & Usage  
-
-1️⃣ Clone the repository:  
-```bash
-git clone https://github.com/your-username/ml-projects.git
-cd ml-projects
-```
-
-2️⃣ Install dependencies:  
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Navigate to a specific project folder and follow the instructions in its README.  
-
----
 
 📜 About Me
+
 🎓 Graduating in May 2025 from Lamar University with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science.
 
 💡 Proficient in Python and its key ML libraries, including NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, and Matplotlib, as well as data visualization tools like Tableau and Power BI.
